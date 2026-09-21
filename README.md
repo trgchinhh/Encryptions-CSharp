@@ -23,10 +23,10 @@
 ## Các loại mã hóa 
 
 | Tên mã hóa | Loại mã hóa | Miêu tả mã hóa | Link |
-|:---:|:---|:---|:---|
-| Ceasar-encryption | Đối xứng |Thuật toán mã hóa đối xứng cổ điển, dịch chuyển các ký tự trong bảng chữ cái dựa trên một khóa cố định | [Ceasar-encryption](https://github.com/trgchinhh/Ceasar-encryption) |
-| Mã hóa đối xứng tự build | Đối xứng | Sử dụng 2 khóa K1, K2 kết hợp các phép biến đổi XOR, NOT, xoay bit qua R vòng lặp để mã hóa và giải mã | [Symmetric-encryption](https://github.com/trgchinhh/Symmetric-encryption) |
-| Mã hóa bất đối xứng RSA | Bất đối xứng | Thuật toán RSA dựa trên tích của 2 số nguyên tố lớn p × q, dùng khóa công khai (e, n) để mã hóa và khóa riêng tư (d, n) để giải mã | [Asymmetric-encryption](https://github.com/trgchinhh/Asymmetric-encryption) |
+|:---:|:---:|:---:|:---:|
+| Ceasar | Đối xứng |Thuật toán mã hóa đối xứng cổ điển, dịch chuyển các ký tự trong bảng chữ cái dựa trên một khóa cố định | [Ceasar](https://github.com/trgchinhh/Ceasar-encryption) |
+| Symmetric | Đối xứng | Sử dụng 2 khóa K1, K2 kết hợp các phép biến đổi XOR, NOT, xoay bit qua R vòng lặp để mã hóa và giải mã | [Symmetric](https://github.com/trgchinhh/Symmetric-encryption) |
+| Asymmetric | Bất đối xứng | Thuật toán RSA dựa trên tích của 2 số nguyên tố lớn p × q, dùng khóa công khai (e, n) để mã hóa và khóa riêng tư (d, n) để giải mã | [Asymmetric](https://github.com/trgchinhh/Asymmetric-encryption) |
 
 ---
 
